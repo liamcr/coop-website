@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coop-website/static/css/main.72736e0d.chunk.css",
-    "main.js": "/coop-website/static/js/main.2e6fd876.chunk.js",
-    "main.js.map": "/coop-website/static/js/main.2e6fd876.chunk.js.map",
-    "runtime~main.js": "/coop-website/static/js/runtime~main.15d40d15.js",
-    "runtime~main.js.map": "/coop-website/static/js/runtime~main.15d40d15.js.map",
-    "static/js/2.5a852d83.chunk.js": "/coop-website/static/js/2.5a852d83.chunk.js",
-    "static/js/2.5a852d83.chunk.js.map": "/coop-website/static/js/2.5a852d83.chunk.js.map",
-    "index.html": "/coop-website/index.html",
-    "precache-manifest.ec86018993432cabaab34c545a5f086c.js": "/coop-website/precache-manifest.ec86018993432cabaab34c545a5f086c.js",
-    "service-worker.js": "/coop-website/service-worker.js",
-    "static/css/main.72736e0d.chunk.css.map": "/coop-website/static/css/main.72736e0d.chunk.css.map",
-    "static/media/back-arrow.svg": "/coop-website/static/media/back-arrow.5d914c21.svg",
-    "static/media/cooperatorsReport.png": "/coop-website/static/media/cooperatorsReport.bfa751e7.png"
+    "main.css": "/workTermReports/static/css/main.72736e0d.chunk.css",
+    "main.js": "/workTermReports/static/js/main.6b6d6184.chunk.js",
+    "main.js.map": "/workTermReports/static/js/main.6b6d6184.chunk.js.map",
+    "runtime~main.js": "/workTermReports/static/js/runtime~main.5970353c.js",
+    "runtime~main.js.map": "/workTermReports/static/js/runtime~main.5970353c.js.map",
+    "static/js/2.19933cd2.chunk.js": "/workTermReports/static/js/2.19933cd2.chunk.js",
+    "static/js/2.19933cd2.chunk.js.map": "/workTermReports/static/js/2.19933cd2.chunk.js.map",
+    "index.html": "/workTermReports/index.html",
+    "precache-manifest.ed484a6b1076c9abe9200fde307e89f3.js": "/workTermReports/precache-manifest.ed484a6b1076c9abe9200fde307e89f3.js",
+    "service-worker.js": "/workTermReports/service-worker.js",
+    "static/css/main.72736e0d.chunk.css.map": "/workTermReports/static/css/main.72736e0d.chunk.css.map",
+    "static/media/back-arrow.svg": "/workTermReports/static/media/back-arrow.5d914c21.svg",
+    "static/media/cooperatorsReport.png": "/workTermReports/static/media/cooperatorsReport.bfa751e7.png"
   }
 }

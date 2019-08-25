@@ -1,7 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
 import TheCooperators from './TheCooperators'
-import './../App.css';
+import cooperatorsImage from './../cooperatorsReport.png';
+import './styles/Card.css';
 
 class Card extends React.Component {
     constructor(props) {
@@ -11,7 +12,7 @@ class Card extends React.Component {
             "The Co-operators": <TheCooperators />
         };
         this.backgroundImage = {
-            "The Co-Operators": "#"
+            "The Co-operators": cooperatorsImage
         };
 
         this.onClick = this.onClick.bind(this);
@@ -20,7 +21,7 @@ class Card extends React.Component {
     onClick() {
         render(
             this.componentToRender[this.props.title],
-            document.getElementById('root')
+            document.getElementById('App')
         );
     }
 
@@ -28,7 +29,8 @@ class Card extends React.Component {
         return (
             <div className = "Card" onClick = {this.onClick} style = {
                 {
-                    backgroundImage: this.backgroundImage[this.props.title]
+                    backgroundImage: `url(${this.backgroundImage[this.props.title]})`,
+                    backgroundSize: "600px"
                 }
             }>
                 <h2>{this.props.title}</h2>

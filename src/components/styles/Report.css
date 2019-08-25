@@ -1,0 +1,41 @@
+.Report {
+    margin-top: 74px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 62%;
+    text-align: left;
+    padding-bottom: 30px;
+}
+
+h3 {
+    font-size: 42pt;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+h4 {
+    font-size: 24pt;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
+
+h5 {
+    font-size: 1em;
+    font-style: italic;
+    padding-left: 1em;
+}
+
+p {
+    text-indent: 1em;
+}
+
+em {
+    padding-bottom: 5px;
+}
+
+@media only screen and (max-width: 720px) {
+    .Report {
+        width: 90%;
+    }
+}

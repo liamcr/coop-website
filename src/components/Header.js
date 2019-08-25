@@ -2,13 +2,13 @@ import React from 'react';
 import { render } from 'react-dom';
 import HomePage from './HomePage';
 import backArrow from './../back-arrow.svg';
-import './../App.css';
+import './styles/Header.css';
 
 class Header extends React.Component {
     back() {
         render(
             <HomePage />,
-            document.getElementById('root')
+            document.getElementById('App')
         );
     }
 
@@ -19,9 +19,7 @@ class Header extends React.Component {
         return (
             <header>
                 {backButton}
-                <div>
-                    <h1>Work Term Reports</h1>
-                </div>
+                <h1>Work Term Reports</h1>
             </header>
         );
     }

@@ -1,8 +1,8 @@
 {
-  "name": "coop-site",
+  "name": "workTermReports",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://liamcr.github.io/coop-website",
+  "homepage": "https://liamcr.github.io/workTermReports",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",

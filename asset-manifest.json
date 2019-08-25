@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/workTermReports/static/css/main.72736e0d.chunk.css",
+    "main.js": "/workTermReports/static/js/main.808726f8.chunk.js",
+    "main.js.map": "/workTermReports/static/js/main.808726f8.chunk.js.map",
+    "runtime~main.js": "/workTermReports/static/js/runtime~main.b014764e.js",
+    "runtime~main.js.map": "/workTermReports/static/js/runtime~main.b014764e.js.map",
+    "static/js/2.5a852d83.chunk.js": "/workTermReports/static/js/2.5a852d83.chunk.js",
+    "static/js/2.5a852d83.chunk.js.map": "/workTermReports/static/js/2.5a852d83.chunk.js.map",
+    "index.html": "/workTermReports/index.html",
+    "precache-manifest.c8241a37139d379c48f2038ab044a33d.js": "/workTermReports/precache-manifest.c8241a37139d379c48f2038ab044a33d.js",
+    "service-worker.js": "/workTermReports/service-worker.js",
+    "static/css/main.72736e0d.chunk.css.map": "/workTermReports/static/css/main.72736e0d.chunk.css.map",
+    "static/media/back-arrow.svg": "/workTermReports/static/media/back-arrow.5d914c21.svg",
+    "static/media/cooperatorsReport.png": "/workTermReports/static/media/cooperatorsReport.bfa751e7.png"
+  }
+}

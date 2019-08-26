@@ -8,7 +8,7 @@ class TheCooperators extends React.Component {
         return (
             <div id="TheCooperators">
                 <Header homePage={false} />
-                <aside className = "nav">
+                <nav>
                     <h4>Nav</h4>
                     <a className = "navLink" href="#abstract">Abstract</a>
                     <a className = "navLink" href="#about">About the Company</a>
@@ -16,7 +16,7 @@ class TheCooperators extends React.Component {
                     <a className = "navLink" href="#jobDescription">Job Description</a>
                     <a className = "navLink" href="#conclusion">Conclusion</a>
                     <a className = "navLink" href="#acknowledgments">Acknowledgments</a>
-                </aside>
+                </nav>
                 <div className="Report">
                     <a id="abstract">
                     <h3>The Co-operators</h3>

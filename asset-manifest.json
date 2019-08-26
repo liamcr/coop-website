@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/workTermReports/static/css/main.fe247972.chunk.css",
+    "main.css": "/workTermReports/static/css/main.f52c31d2.chunk.css",
     "main.js": "/workTermReports/static/js/main.1bbe57e4.chunk.js",
     "main.js.map": "/workTermReports/static/js/main.1bbe57e4.chunk.js.map",
     "runtime~main.js": "/workTermReports/static/js/runtime~main.5970353c.js",
@@ -8,9 +8,9 @@
     "static/js/2.19933cd2.chunk.js": "/workTermReports/static/js/2.19933cd2.chunk.js",
     "static/js/2.19933cd2.chunk.js.map": "/workTermReports/static/js/2.19933cd2.chunk.js.map",
     "index.html": "/workTermReports/index.html",
-    "precache-manifest.204738efdd5b36eaa657b690d959f1be.js": "/workTermReports/precache-manifest.204738efdd5b36eaa657b690d959f1be.js",
+    "precache-manifest.5d38605b6e48c1e338f9741d2bbc1fb8.js": "/workTermReports/precache-manifest.5d38605b6e48c1e338f9741d2bbc1fb8.js",
     "service-worker.js": "/workTermReports/service-worker.js",
-    "static/css/main.fe247972.chunk.css.map": "/workTermReports/static/css/main.fe247972.chunk.css.map",
+    "static/css/main.f52c31d2.chunk.css.map": "/workTermReports/static/css/main.f52c31d2.chunk.css.map",
     "static/media/back-arrow.svg": "/workTermReports/static/media/back-arrow.5d914c21.svg",
     "static/media/cooperatorsReport.png": "/workTermReports/static/media/cooperatorsReport.bfa751e7.png"
   }

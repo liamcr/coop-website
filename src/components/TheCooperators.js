@@ -8,16 +8,31 @@ class TheCooperators extends React.Component {
         return (
             <div id="TheCooperators">
                 <Header homePage={false} />
+                <aside className = "nav">
+                    <h4>Nav</h4>
+                    <a className = "navLink" href="#abstract">Abstract</a>
+                    <a className = "navLink" href="#about">About the Company</a>
+                    <a className = "navLink" href="#goals">Goals</a>
+                    <a className = "navLink" href="#jobDescription">Job Description</a>
+                    <a className = "navLink" href="#conclusion">Conclusion</a>
+                    <a className = "navLink" href="#acknowledgments">Acknowledgments</a>
+                </aside>
                 <div className="Report">
+                    <a id="abstract">
                     <h3>The Co-operators</h3>
                     <em>Summer 2019</em>
+                    </a>
+
+                    <a id="about">
                     <h4>Abstract</h4>
                     <p>In this report I will identify what I took away from this past work term. 
                         I will recount how I took the last four months as an opportunity to enhance 
                         my technical skills, as well as improve my ability to effectively work in a 
                         group setting.</p>
+
                     <h4>About the Company</h4>
-                    <p>Over the summer, I worked at the Co-operators in downtown Guelph. 
+                    </a>
+                    <p>Over the summer, I worked at The Co-operators in downtown Guelph. 
                         I worked with the automotive insurance team performing maintenance on 
                         PolicyCenter (A software used by agents to quote clients on their 
                         insurance policies). My job focussed on developing in an object-oriented 
@@ -32,13 +47,16 @@ class TheCooperators extends React.Component {
                         done (All risk evaluations for water are typically done at a postal code 
                         level of accuracy). The Co-operators are able to do this due to the data 
                         available to them.</p>
+                    <a id="goals">
                     <p>An interesting fact about the Co-operators is that the company is a 
                         co-operative rather than a corporation. This means that it is a business 
                         owned by the people using its services. Rather than make all business 
                         decisions based solely on potential profit and revenue, the wants and 
                         needs of the users also come into the equation due to the fact that the 
                         Co-operators Group is owned by them.</p>
+
                     <h4>Goals/Learning Objectives</h4>
+                    </a>
                     <p>First and foremost, what were my learning goals? Did I achieve them?</p>
                     <h5>I would like to improve my oral communication skills by 
                         contributing/presenting something of significance to a meeting, which 
@@ -76,7 +94,7 @@ class TheCooperators extends React.Component {
                         documentation, are both tasks that were not necessary for an employee in 
                         my position, but are nonetheless very much related to my work.</p>
                     <p>In terms of technical skills, I wanted to improve on both my ability 
-                        to use object-	oriented programming effectively, and my ability to 
+                        to use object-oriented programming effectively, and my ability to 
                         write efficient SQL queries. These are both skills I have had experience 
                         with in the past, but I feel these are very important skills to know how 
                         to use effectively, and I made an effort to understand and learn new ways 
@@ -86,6 +104,7 @@ class TheCooperators extends React.Component {
                         skill when it comes to succeeding in the workplace, so I believe the 
                         improvement I saw in myself over the last 4 months will be very crucial 
                         when it comes to performance in future positions.</p>
+                    <a id="jobDescription">
                     <p>The two specific technologies I wanted to work with were Jira and Git. 
                         Jira is a very effective and prevalent technology when it comes to 
                         managing tasks and issues in a team environment. I will no doubt be 
@@ -94,7 +113,9 @@ class TheCooperators extends React.Component {
                         system out there, and will be used at most places I work in the future. 
                         It’s an important tool to know how to use in a team setting as well as in 
                         an individual setting, so it will be no doubt helpful to learn.</p>
+
                     <h4>Job Description</h4>
+                    </a>
                     <p>I worked as a Junior Systems Developer on the PolicyCenter maintenance 
                         team. My job was to take user-submitted Jira issues, identify the root 
                         cause, and go through the formal process of fixing any defects within the 
@@ -106,6 +127,7 @@ class TheCooperators extends React.Component {
                         at 1:15 we had our daily scrum meeting where each person updated the team 
                         on what they have been working on, what they are currently working on, 
                         and what they will be working on until the next meeting.</p>
+                    <a id="conclusion">
                     <p>In order to succeed in this position, I needed teamwork skills, as well as 
                         skills in object-oriented programming and SQL. Teamwork was something I 
                         learned more about on the job than I had in school. I believe this is 
@@ -117,7 +139,10 @@ class TheCooperators extends React.Component {
                         but I really needed to think hard about them in order to use them 
                         correctly. After using them every day, they have become very intuitive 
                         and easy to understand.</p>
+
                     <h4>Conclusion</h4>
+                    </a>
+                    <a id="acknowledgments">
                     <p>Ultimately, this work term was a great learning experience for me. 
                         It was the first time I had really worked with a team on a project for 
                         so long, and it helped me improve my soft skills immensely. I had the 
@@ -129,6 +154,15 @@ class TheCooperators extends React.Component {
                         I can improve. I learned a lot over the past 4 months, and I am looking 
                         forward to using this knowledge to further improve in my future 
                         work terms.</p>
+
+                    <h4>Acknowledgments</h4>
+                    </a>
+                    <p>I would like to thank my co-workers for making these past four months 
+                        so enjoyable. In particular, I want to thank my supervisor, Harvinder 
+                        Sandhu, and my team: Barbie, Francisco, Rick, Victor, Sebastian, 
+                        Anthony, and James. I also very much appreciate the work that Laura 
+                        Gatto and Kate McRoberts put in to helping me find a place of employment 
+                        for the term.</p>
                 </div>
             </div>
         );

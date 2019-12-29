@@ -1,19 +1,19 @@
 .HomePage {
-    text-align: center;
-    height: 100%;
+  text-align: center;
+  height: 100%;
 }
 
 #cards {
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: auto;
-    margin-right: auto;
-    width: 62%;
-    height: calc(100% - 64px);
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 62%;
+  height: calc(100% - 64px);
 }
 
 @media only screen and (max-width: 720px) {
-    #cards {
-        width: 90%;
-    }
+  #cards {
+    width: 90%;
+  }
 }

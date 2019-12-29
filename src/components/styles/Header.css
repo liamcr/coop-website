@@ -1,35 +1,35 @@
 img {
-    left: 0;
-    display: inline;
-    position: absolute;
-    cursor: pointer;
-    margin: 12px;
-    vertical-align: middle;
+  left: 0;
+  display: inline;
+  position: absolute;
+  cursor: pointer;
+  margin: 12px;
+  vertical-align: middle;
 }
 
 header {
-    background-color: #313639;
-    color: whitesmoke;
-    height: 64px;
-    top: 0;
-    width: 100%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    position: sticky;
-    z-index: 3;
-    text-align: center;
+  background-color: #313639;
+  color: whitesmoke;
+  height: 64px;
+  top: 0;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: sticky;
+  z-index: 3;
+  text-align: center;
 }
 
 h1 {
-    font-size: 2rem;
-    line-height: 64px;
-    vertical-align: middle;
-    display: inline-block;
-    margin: 0;
-    font-weight: normal;
+  font-size: 2rem;
+  line-height: 64px;
+  vertical-align: middle;
+  display: inline-block;
+  margin: 0;
+  font-weight: normal;
 }
 
 @media only screen and (max-width: 600px) {
-    h1 {
-        font-size: 1.5rem;
-    }
+  h1 {
+    font-size: 1.5rem;
+  }
 }

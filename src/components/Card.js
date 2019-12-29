@@ -1,18 +1,21 @@
 import React from 'react';
 import { render } from 'react-dom';
-import TheCooperators from './TheCooperators'
+import Report from './Report'
 import cooperatorsImage from './../cooperatorsReport.png';
+import WSIBImage from "./../WSIBReport.png";
 import './styles/Card.css';
 
 class Card extends React.Component {
     constructor(props) {
         super(props);
 
-        this.componentToRender = {
-            "The Co-operators": <TheCooperators />
+        this.title = {
+            "TheCooperators": "The Co-operators",
+            "WSIB": "WSIB Innovation Lab"
         };
         this.backgroundImage = {
-            "The Co-operators": cooperatorsImage
+            "TheCooperators": cooperatorsImage,
+            "WSIB": WSIBImage
         };
 
         this.onClick = this.onClick.bind(this);
@@ -20,7 +23,7 @@ class Card extends React.Component {
 
     onClick() {
         render(
-            this.componentToRender[this.props.title],
+            <Report company={this.props.title} />,
             document.getElementById('App')
         );
     }
@@ -33,7 +36,7 @@ class Card extends React.Component {
                     backgroundSize: "600px"
                 }
             }>
-                <h2>{this.props.title}</h2>
+                <h2>{this.title[this.props.title]}</h2>
             </div>
         );
     }

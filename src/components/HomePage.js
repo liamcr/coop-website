@@ -9,7 +9,8 @@ class HomePage extends React.Component {
             <div className = "HomePage">
                 <Header homePage={true}/>
                 <div id="cards">
-                    <Card backgroundImage="#" title="The Co-operators" />
+                    <Card title="WSIB" />
+                    <Card title="TheCooperators" />
                 </div>
             </div>
         );

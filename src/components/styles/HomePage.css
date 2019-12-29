@@ -4,11 +4,12 @@
 }
 
 #cards {
-    margin-top: 74px;
+    display: flex;
+    flex-wrap: wrap;
     margin-left: auto;
     margin-right: auto;
     width: 62%;
-    height: 100%;
+    height: calc(100% - 64px);
 }
 
 @media only screen and (max-width: 720px) {

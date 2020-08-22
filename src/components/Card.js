@@ -11,11 +11,13 @@ class Card extends React.Component {
 
     this.title = {
       TheCooperators: "The Co-operators",
-      WSIB: "WSIB Innovation Lab"
+      WSIB: "WSIB Innovation Lab",
+      ApplyBoard: "ApplyBoard",
     };
     this.backgroundImage = {
       TheCooperators: cooperatorsImage,
-      WSIB: WSIBImage
+      WSIB: WSIBImage,
+      ApplyBoard: cooperatorsImage,
     };
 
     this.onClick = this.onClick.bind(this);
@@ -35,7 +37,7 @@ class Card extends React.Component {
         onClick={this.onClick}
         style={{
           backgroundImage: `url(${this.backgroundImage[this.props.title]})`,
-          backgroundSize: "600px"
+          backgroundSize: "600px",
         }}
       >
         <h2>{this.title[this.props.title]}</h2>

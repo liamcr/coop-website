@@ -15,8 +15,8 @@ export const reports = {
             term. I will recount how I took the last four months as an
             opportunity to enhance my technical skills, as well as improve my
             ability to effectively work in a group setting.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "aboutTheCompany",
@@ -48,8 +48,8 @@ export const reports = {
             all business decisions based solely on potential profit and revenue,
             the wants and needs of the users also come into the equation due to
             the fact that the Co-operators Group is owned by them.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "goalsLearningObjectives",
@@ -139,8 +139,8 @@ export const reports = {
             work in the future. It’s an important tool to know how to use in a
             team setting as well as in an individual setting, so it will be no
             doubt helpful to learn.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "jobDescription",
@@ -175,8 +175,8 @@ export const reports = {
             to think hard about them in order to use them correctly. After using
             them every day, they have become very intuitive and easy to
             understand.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "conclusion",
@@ -195,8 +195,8 @@ export const reports = {
             improve. I learned a lot over the past 4 months, and I am looking
             forward to using this knowledge to further improve in my future work
             terms.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "acknowledgments",
@@ -209,10 +209,10 @@ export const reports = {
             Sebastian, Anthony, and James. I also very much appreciate the work
             that Laura Gatto and Kate McRoberts put in to helping me find a
             place of employment for the term.
-          </p>
-        ]
-      }
-    ]
+          </p>,
+        ],
+      },
+    ],
   },
   WSIB: {
     company: "WSIB Innovation Lab",
@@ -228,8 +228,8 @@ export const reports = {
             term. I will recount how I took the last four months as an
             opportunity to further my technical development, as well as improve
             my ability to effectively work in a group setting.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "aboutTheCompany",
@@ -255,8 +255,8 @@ export const reports = {
             React, Docker, and Kubernetes, the lab developed a website to guide
             an injured worker through the process of setting up an NIHL claim,
             including a calculator to determine what their claim is worth.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "goalsLearningObjectives",
@@ -346,8 +346,8 @@ export const reports = {
             experience with machine learning. It seems to be the direction the
             world is going in terms of advanced technology, and I wanted to make
             sure I understood it, as well as apply it.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "jobDescription",
@@ -401,8 +401,8 @@ export const reports = {
             concept I first learned about in the classroom, but implementing
             this in a work environment made the concept easier and more
             intuitive to understand.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "conclusion",
@@ -421,8 +421,8 @@ export const reports = {
             skills such as teamwork and project management. I learned a lot over
             the past 4 months, and I am looking forward to using this knowledge
             to further improve in my future work terms.
-          </p>
-        ]
+          </p>,
+        ],
       },
       {
         id: "acknowledgments",
@@ -435,11 +435,204 @@ export const reports = {
             Julia, and Sabrina. I also very much appreciate the work that Laura
             Gatto and Kate McRoberts put in to helping me find a place of
             employment for the term.
-          </p>
-        ]
-      }
-    ]
-  }
+          </p>,
+        ],
+      },
+    ],
+  },
+  ApplyBoard: {
+    company: "ApplyBoard",
+    term: "Summer 2020",
+    color: "#007bff",
+    sections: [
+      {
+        id: "abstract",
+        title: "Abstract",
+        paragraphs: [
+          <p>
+            In this report, I will identify what I took away from this past work
+            term. I will recount how I took the last four months as an
+            opportunity to further my technical development, as well as improve
+            my ability to effectively work in a group setting.
+          </p>,
+        ],
+      },
+      {
+        id: "aboutTheCompany",
+        title: "About the Company",
+        paragraphs: [
+          <p>
+            Over the summer 2020 co-op tern, I worked at ApplyBoard in downtown
+            Kitchener. ApplyBoard is a start-up company with the mission to
+            “educate the world” by streamlining the process of international
+            students applying to Canadian, American, and British schools. The
+            product ApplyBoard provides is a website, so the area of computing
+            science I was involved in was heavily focussed on web development.
+          </p>,
+          <p>
+            One interesting fact about the company is that on my second day of
+            work the CEO organized a company-wide meeting to announce that
+            ApplyBoard had just hit “unicorn” status (a privately-held company
+            valued at over $1 billion). This marked only the third time a
+            Canadian company was given this status (following Coveo and Nuvei).
+          </p>,
+        ],
+      },
+      {
+        id: "goalsLearningObjectives",
+        title: "Goals/Learning Objectives",
+        paragraphs: [
+          <p>
+            First and foremost, what were my learning goals? Did I achieve them?
+          </p>,
+          <h5>
+            By the end of my term, I want to be confident and comfortable
+            developing using Ruby on Rails
+          </h5>,
+          <p>
+            After discussing my learning goals with my team lead, he told me
+            that even after twenty years in the industry, he still occasionally
+            comes across Rails concepts that he does not fully understand. That
+            being said, although I didn’t get to a place where I understood
+            everything little thing about Ruby on Rails, I reached a level of
+            proficiency with it where I felt comfortable tracking down bugs and
+            navigating the codebase for the most part. At the end of the day,
+            that was the end goal with this learning objective, so I would call
+            this a success.
+          </p>,
+          <h5>
+            By the end of the term, I want to have helped contribute something
+            of value to the ApplyBoard website
+          </h5>,
+          <p>
+            The term “something of value” is a bit vague and subjective, but I
+            defined it as a new feature to the site that most users would use
+            and notice. In other words, I did not want to go through my term
+            fixing small bugs here and there - I wanted to help develop
+            something bigger.
+          </p>,
+          <p>
+            The biggest addition to the website I was involved in was the
+            acceptance of Duolingo English scores as a student’s English
+            language proficiency (ELP) test. Due to COVID, students were having
+            trouble accessing the more popular ELP tests, such as TOEFL or
+            IELTS. As a result, Duolingo became a more popular and accessible
+            alternative, and as a company we had to account for this. Over the
+            course of a month, my team and I implemented this from beginning to
+            end and is still a popular feature of the site.
+          </p>,
+          <h5>
+            By the end of my term, I want to feel comfortable asking questions
+            and sharing my opinions at team meetings.
+          </h5>,
+          <p>
+            This was another subjective goal, but I noticed a difference in how
+            I felt in meetings at the beginning of the term compared to the end
+            of the term. By the end I never really found myself second guessing
+            voicing my opinions, which ultimately was the end goal for this
+            learning objective. I think a big reason for this was because my
+            team lead gave me the responsibility of leading the team stand-ups
+            every morning. As a result of this I became a lot more comfortable
+            speaking in meetings, especially after the realization that people
+            tend to only care about the overall message of what is being said,
+            rather than any minor stuttering or pauses (which were things I
+            would previously obsess over).{" "}
+          </p>,
+          <p>
+            When coming up with my goals for the term, I tried to make sure they
+            were related to my position. Proficiency in Ruby was a significant
+            component of my role, so I wanted to make sure I was focussed on
+            improving that skill. Feeling comfortable in meetings was also very
+            much related to the responsibilities included in my position, as I
+            attended meetings on a daily basis.
+          </p>,
+          <p>
+            In terms of the technical skills I wanted to learn, I was mainly
+            focussed on increasing my aptitude in technologies that are involved
+            in the workflow of a typical agile team. For example, Jira and
+            Git/GitHub.
+          </p>,
+          <p>
+            In terms of soft skills, I wanted to learn how to be a more
+            effective communicator and team member. Teamwork is arguably the
+            most important skill when it comes to succeeding in the workplace,
+            so I believe the improvement I saw in myself over the last 4 months
+            will be very crucial when it comes to performance in future
+            positions.
+          </p>,
+        ],
+      },
+      {
+        id: "jobDescription",
+        title: "Job Description",
+        paragraphs: [
+          <p>
+            I worked as a Full-Stack developer at ApplyBoard. My job was to help
+            in developing the company’s website, from things such as bug fixes
+            to new features.
+          </p>,
+          <p>
+            The most interesting aspect of my job, in my opinion, was the focus
+            on Ruby on Rails backend development. It was a completely new
+            technology for me, and the way the application was structured was
+            vastly different than anything I’d seen before in a full-stack
+            project. Learning about how it handles routes, controllers, and
+            models was a huge learning experience, considering the only backend
+            experience I had prior was express.js and SQL or MongoDB.
+          </p>,
+          <p>
+            In order to succeed in this position, I needed technical programming
+            skills, as well as skills in time-management, organization, and
+            teamwork. Teamwork was something I learned more about on the job
+            than I had in school. I believe this is because I had the
+            opportunity to work on projects larger than a typical individual
+            assignment. Time-management and organization skills were also
+            important due to the sprint-based nature of the work environment,
+            with every task having a relatively close deadline.
+          </p>,
+          <p>
+            My technical programming skills, however, were skills that I learned
+            more about in school, but working with them on a daily basis helped
+            me refine those skills further. For example, an HTTP request is a
+            concept I first learned about in the classroom, but implementing
+            this in a work environment made the concept easier and more
+            intuitive to understand.
+          </p>,
+        ],
+      },
+      {
+        id: "conclusion",
+        title: "Conclusion",
+        paragraphs: [
+          <p>
+            Ultimately, this job was a great learning experience for me, more so
+            in my soft skills than in my technical skills. This was the first
+            work term I had in which the company properly implemented the agile
+            development methodology (with ceremonies such as stand-ups, grooming
+            meetings, and retrospectives), so I took a lot away from that which
+            I can apply in future positions. I also learned a lot in terms of
+            commutation and teamwork as a result of the work-from-home
+            situation. My team taught me what actions can be taken to foster
+            relationships with teammates remotely, and I will take that with me
+            to help in future work-from-home (or in-person) positions.
+          </p>,
+        ],
+      },
+      {
+        id: "acknowledgments",
+        title: "Acknowledgments",
+        paragraphs: [
+          <p>
+            I would like to thank my co-workers for making these past four
+            months so enjoyable. In particular, I want to thank my supervisor
+            and my team (Team Knuth!). I also very much appreciate the work that
+            Laura Gatto and Kate McRoberts put in to helping me find a place of
+            employment for the term.
+          </p>,
+        ],
+      },
+    ],
+  },
 };
 
 export default reports;

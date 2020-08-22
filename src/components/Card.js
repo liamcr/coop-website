@@ -3,6 +3,7 @@ import { render } from "react-dom";
 import Report from "./Report";
 import cooperatorsImage from "./../cooperatorsReport.png";
 import WSIBImage from "./../WSIBReport.png";
+import ApplyBoardImage from "./../ApplyBoardReport.png";
 import "./styles/Card.css";
 
 class Card extends React.Component {
@@ -17,7 +18,7 @@ class Card extends React.Component {
     this.backgroundImage = {
       TheCooperators: cooperatorsImage,
       WSIB: WSIBImage,
-      ApplyBoard: cooperatorsImage,
+      ApplyBoard: ApplyBoardImage,
     };
 
     this.onClick = this.onClick.bind(this);

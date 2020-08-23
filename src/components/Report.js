@@ -11,14 +11,12 @@ class Report extends React.Component {
   }
 
   render() {
-    console.log(this.scroller);
-
     return (
       <div className="ReportPage">
         <Header homePage={false} />
         <nav
           style={{
-            backgroundColor: Reports[this.props.company]["color"]
+            backgroundColor: Reports[this.props.company]["color"],
           }}
         >
           <h4>Nav</h4>
@@ -65,7 +63,7 @@ class Report extends React.Component {
         <div className="Report">
           <h3
             style={{
-              color: Reports[this.props.company]["color"]
+              color: Reports[this.props.company]["color"],
             }}
           >
             {Reports[this.props.company]["company"]}

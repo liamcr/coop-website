@@ -494,7 +494,7 @@ export const reports = {
             that even after twenty years in the industry, he still occasionally
             comes across Rails concepts that he does not fully understand. That
             being said, although I didn’t get to a place where I understood
-            everything little thing about Ruby on Rails, I reached a level of
+            every little thing about Ruby on Rails, I reached a level of
             proficiency with it where I felt comfortable tracking down bugs and
             navigating the codebase for the most part. At the end of the day,
             that was the end goal with this learning objective, so I would call
@@ -519,7 +519,7 @@ export const reports = {
             IELTS. As a result, Duolingo became a more popular and accessible
             alternative, and as a company we had to account for this. Over the
             course of a month, my team and I implemented this from beginning to
-            end and is still a popular feature of the site.
+            end and it is still a popular feature of the site.
           </p>,
           <h5>
             By the end of my term, I want to feel comfortable asking questions
@@ -549,8 +549,8 @@ export const reports = {
           <p>
             In terms of the technical skills I wanted to learn, I was mainly
             focussed on increasing my aptitude in technologies that are involved
-            in the workflow of a typical agile team. For example, Jira and
-            Git/GitHub.
+            in the workflow of a typical agile team. For example, Jira, Git, and
+            GitHub.
           </p>,
           <p>
             In terms of soft skills, I wanted to learn how to be a more
@@ -611,7 +611,7 @@ export const reports = {
             development methodology (with ceremonies such as stand-ups, grooming
             meetings, and retrospectives), so I took a lot away from that which
             I can apply in future positions. I also learned a lot in terms of
-            commutation and teamwork as a result of the work-from-home
+            communication and teamwork as a result of the work-from-home
             situation. My team taught me what actions can be taken to foster
             relationships with teammates remotely, and I will take that with me
             to help in future work-from-home (or in-person) positions.

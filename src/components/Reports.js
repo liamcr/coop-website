@@ -462,8 +462,8 @@ export const reports = {
         title: "About the Company",
         paragraphs: [
           <p>
-            Over the summer 2020 co-op tern, I worked at ApplyBoard in downtown
-            Kitchener. ApplyBoard is a start-up company with the mission to
+            Over the summer 2020 co-op term, I worked at ApplyBoard in downtown
+            Kitchener. ApplyBoard is a start-up company whose mission is to
             “educate the world” by streamlining the process of international
             students applying to Canadian, American, and British schools. The
             product ApplyBoard provides is a website, so the area of computing
@@ -494,11 +494,11 @@ export const reports = {
             that even after twenty years in the industry, he still occasionally
             comes across Rails concepts that he does not fully understand. That
             being said, although I didn’t get to a place where I understood
-            every little thing about Ruby on Rails, I reached a level of
-            proficiency with it where I felt comfortable tracking down bugs and
-            navigating the codebase for the most part. At the end of the day,
-            that was the end goal with this learning objective, so I would call
-            this a success.
+            everything about Ruby on Rails, I reached a level of proficiency
+            with it where I felt comfortable tracking down bugs and navigating
+            the codebase for the most part. At the end of the day, that was the
+            end goal with this learning objective, so I would call this a
+            success.
           </p>,
           <h5>
             By the end of the term, I want to have helped contribute something
@@ -514,9 +514,9 @@ export const reports = {
           <p>
             The biggest addition to the website I was involved in was the
             acceptance of Duolingo English scores as a student’s English
-            language proficiency (ELP) test. Due to COVID, students were having
-            trouble accessing the more popular ELP tests, such as TOEFL or
-            IELTS. As a result, Duolingo became a more popular and accessible
+            language proficiency (ELP) test. Due to COVID-19, students were
+            having trouble accessing the more popular ELP tests, such as TOEFL
+            or IELTS. As a result, Duolingo became a more popular and accessible
             alternative, and as a company we had to account for this. Over the
             course of a month, my team and I implemented this from beginning to
             end and it is still a popular feature of the site.
@@ -592,11 +592,11 @@ export const reports = {
           </p>,
           <p>
             My technical programming skills, however, were skills that I learned
-            more about in school, but working with them on a daily basis helped
-            me refine those skills further. For example, an HTTP request is a
-            concept I first learned about in the classroom, but implementing
-            this in a work environment made the concept easier and more
-            intuitive to understand.
+            more about in school, but working with them daily helped me refine
+            those skills further. For example, an HTTP request is a concept I
+            first learned about in the classroom, but implementing this in a
+            work environment made the concept easier and more intuitive to
+            understand.
           </p>,
         ],
       },
@@ -620,14 +620,14 @@ export const reports = {
       },
       {
         id: "acknowledgments",
-        title: "Acknowledgments",
+        title: "Acknowledgements",
         paragraphs: [
           <p>
             I would like to thank my co-workers for making these past four
             months so enjoyable. In particular, I want to thank my supervisor
-            and my team (Team Knuth!). I also very much appreciate the work that
-            Laura Gatto and Kate McRoberts put in to helping me find a place of
-            employment for the term.
+            and my team (Team Knuth!). I also appreciate all the work that Laura
+            Gatto and Kate McRoberts put in to help me secure my employment for
+            the term.
           </p>,
         ],
       },

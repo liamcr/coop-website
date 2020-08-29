@@ -470,8 +470,8 @@ export const reports = {
             science I was involved in was heavily focussed on web development.
           </p>,
           <p>
-            One interesting fact about the company is that on my second day of
-            work the CEO organized a company-wide meeting to announce that
+            One interesting fact about the company is that, on my second day of
+            work, the CEO organized a company-wide meeting to announce that
             ApplyBoard had just hit “unicorn” status (a privately-held company
             valued at over $1 billion). This marked only the third time a
             Canadian company was given this status (following Coveo and Nuvei).
@@ -494,18 +494,17 @@ export const reports = {
             that even after twenty years in the industry, he still occasionally
             comes across Rails concepts that he does not fully understand. That
             being said, although I didn’t get to a place where I understood
-            everything about Ruby on Rails, I reached a level of proficiency
-            with it where I felt comfortable tracking down bugs and navigating
-            the codebase for the most part. At the end of the day, that was the
-            end goal with this learning objective, so I would call this a
-            success.
+            everything about Ruby on Rails, I did reach a level of proficiency
+            where I felt comfortable tracking down bugs and navigating the
+            codebase for the most part. Given that was the end goal with this
+            learning objective, I would call this a success.
           </p>,
           <h5>
             By the end of the term, I want to have helped contribute something
             of value to the ApplyBoard website
           </h5>,
           <p>
-            The term “something of value” is a bit vague and subjective, but I
+            While the term “something of value” is a bit vague and subjective, I
             defined it as a new feature to the site that most users would use
             and notice. In other words, I did not want to go through my term
             fixing small bugs here and there - I wanted to help develop
@@ -517,39 +516,39 @@ export const reports = {
             language proficiency (ELP) test. Due to COVID-19, students were
             having trouble accessing the more popular ELP tests, such as TOEFL
             or IELTS. As a result, Duolingo became a more popular and accessible
-            alternative, and as a company we had to account for this. Over the
-            course of a month, my team and I implemented this from beginning to
-            end and it is still a popular feature of the site.
+            alternative and, as a company, we had to account for this. Over the
+            course of one month, my team and I implemented this from beginning
+            to end. It remains a popular feature of the site.
           </p>,
           <h5>
             By the end of my term, I want to feel comfortable asking questions
-            and sharing my opinions at team meetings.
+            and sharing my opinions at team meetings
           </h5>,
           <p>
-            This was another subjective goal, but I noticed a difference in how
-            I felt in meetings at the beginning of the term compared to the end
-            of the term. By the end I never really found myself second guessing
-            voicing my opinions, which ultimately was the end goal for this
-            learning objective. I think a big reason for this was because my
-            team lead gave me the responsibility of leading the team stand-ups
-            every morning. As a result of this I became a lot more comfortable
+            This was another subjective goal; however, I did notice a difference
+            in how I felt in meetings at the beginning of the term compared to
+            the end of the term. By the end I never really found myself second
+            guessing voicing my opinions, which ultimately was the end goal for
+            this learning objective. I believe a big reason for this was because
+            my team lead gave me the responsibility of leading the team
+            stand-ups every morning. As a result, I became more comfortable
             speaking in meetings, especially after the realization that people
             tend to only care about the overall message of what is being said,
             rather than any minor stuttering or pauses (which were things I
-            would previously obsess over).{" "}
+            would previously obsess over).
           </p>,
           <p>
-            When coming up with my goals for the term, I tried to make sure they
-            were related to my position. Proficiency in Ruby was a significant
-            component of my role, so I wanted to make sure I was focussed on
+            When formulating my goals for the term, I tried to ensure they were
+            related to my position. Proficiency in Ruby was a significant
+            component of my role, so I wanted to make certain I was focussed on
             improving that skill. Feeling comfortable in meetings was also very
             much related to the responsibilities included in my position, as I
-            attended meetings on a daily basis.
+            attended meetings daily.
           </p>,
           <p>
-            In terms of the technical skills I wanted to learn, I was mainly
+            In terms of the technical skills I wanted to learn, I mainly
             focussed on increasing my aptitude in technologies that are involved
-            in the workflow of a typical agile team. For example, Jira, Git, and
+            in the workflow of a typical agile team; for example, Jira, Git, and
             GitHub.
           </p>,
           <p>
@@ -568,20 +567,20 @@ export const reports = {
         paragraphs: [
           <p>
             I worked as a Full-Stack developer at ApplyBoard. My job was to help
-            in developing the company’s website, from things such as bug fixes
-            to new features.
+            in developing the company’s website, from bug fixes to implementing
+            new features.
           </p>,
           <p>
             The most interesting aspect of my job, in my opinion, was the focus
             on Ruby on Rails backend development. It was a completely new
             technology for me, and the way the application was structured was
-            vastly different than anything I’d seen before in a full-stack
+            vastly different than anything I had seen before in a full-stack
             project. Learning about how it handles routes, controllers, and
-            models was a huge learning experience, considering the only backend
+            models was a huge learning experience, given the only backend
             experience I had prior was express.js and SQL or MongoDB.
           </p>,
           <p>
-            In order to succeed in this position, I needed technical programming
+            To succeed in this position, I required technical programming
             skills, as well as skills in time-management, organization, and
             teamwork. Teamwork was something I learned more about on the job
             than I had in school. I believe this is because I had the
@@ -591,11 +590,11 @@ export const reports = {
             with every task having a relatively close deadline.
           </p>,
           <p>
-            My technical programming skills, however, were skills that I learned
-            more about in school, but working with them daily helped me refine
+            My technical programming skills were skills that I learned more
+            about in school; however, working with them daily helped me refine
             those skills further. For example, an HTTP request is a concept I
-            first learned about in the classroom, but implementing this in a
-            work environment made the concept easier and more intuitive to
+            first learned about in the classroom but implementing this in a work
+            environment made the concept easier and more intuitive to
             understand.
           </p>,
         ],
@@ -611,10 +610,10 @@ export const reports = {
             development methodology (with ceremonies such as stand-ups, grooming
             meetings, and retrospectives), so I took a lot away from that which
             I can apply in future positions. I also learned a lot in terms of
-            communication and teamwork as a result of the work-from-home
-            situation. My team taught me what actions can be taken to foster
-            relationships with teammates remotely, and I will take that with me
-            to help in future work-from-home (or in-person) positions.
+            communication and teamwork because of the work-from-home situation.
+            My team taught me what actions can be taken to foster relationships
+            with teammates remotely, and I will take that with me to help in
+            future work-from-home (or in-person) positions.
           </p>,
         ],
       },

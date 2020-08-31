@@ -533,9 +533,9 @@ export const reports = {
             my team lead gave me the responsibility of leading the team
             stand-ups every morning. As a result, I became more comfortable
             speaking in meetings, especially after the realization that people
-            tend to only care about the overall message of what is being said,
-            rather than any minor stuttering or pauses (which were things I
-            would previously obsess over).
+            tend to focus on the overall message of what is being said, rather
+            than any minor stuttering or pauses (which were things I would
+            previously obsess over).
           </p>,
           <p>
             When formulating my goals for the term, I tried to ensure they were
@@ -552,12 +552,11 @@ export const reports = {
             GitHub.
           </p>,
           <p>
-            In terms of soft skills, I wanted to learn how to be a more
-            effective communicator and team member. Teamwork is arguably the
-            most important skill when it comes to succeeding in the workplace,
-            so I believe the improvement I saw in myself over the last 4 months
-            will be very crucial when it comes to performance in future
-            positions.
+            In terms of soft skills, I wanted to become a more effective
+            communicator and team member. Teamwork is arguably the most
+            important skill when it comes to succeeding in the workplace, so I
+            believe the improvement I saw in myself over the last 4 months will
+            be very crucial when it comes to performance in future positions.
           </p>,
         ],
       },
